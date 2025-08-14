@@ -1,0 +1,3 @@
+Hello! and welcom,  
+Now i successfully setup the aws s3 and also made some push operation into s3.
+and finally headed to build pull controller.
